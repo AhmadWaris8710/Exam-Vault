@@ -1,3 +1,6 @@
+// Ahmad Waris
+// L1f24BSSE0174
+
 import java.util.Scanner;
 
 class Question {
